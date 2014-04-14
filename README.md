@@ -1,4 +1,4 @@
-wxq
+git-flow  
 ===
 
-woxiangqu.com
+gitflow study
